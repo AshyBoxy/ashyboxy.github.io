@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    border: 5px solid #001fff;
+}
